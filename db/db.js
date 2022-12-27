@@ -17,15 +17,15 @@ export default {
 	skills: [
 		{
 			title: "Languages",
-			skillName: "JavaScript, C++",
+			skillName: "Grammar and Vocabulary",
 			color: "1",
-			percentage: "70",
+			percentage: "80",
 		},
 		{
 			title: "Frameworks/Libraries",
-			skillName: "Angular, Reactjs",
+			skillName: "Research Skills",
 			color: "6",
-			percentage: "50",
+			percentage: "90",
 		},
 		{
 			title: "Backend",
